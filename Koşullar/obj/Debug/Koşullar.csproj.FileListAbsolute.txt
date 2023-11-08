@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\Koşullar\Koşullar\bin\Debug\Koşullar.exe.config
+C:\Users\burak\source\repos\Koşullar\Koşullar\bin\Debug\Koşullar.exe
+C:\Users\burak\source\repos\Koşullar\Koşullar\bin\Debug\Koşullar.pdb
+C:\Users\burak\source\repos\Koşullar\Koşullar\obj\Debug\Koşullar.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Koşullar\Koşullar\obj\Debug\Koşullar.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Koşullar\Koşullar\obj\Debug\Koşullar.exe
+C:\Users\burak\source\repos\Koşullar\Koşullar\obj\Debug\Koşullar.pdb
